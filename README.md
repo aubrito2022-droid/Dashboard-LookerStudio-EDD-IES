@@ -2,7 +2,7 @@
 Dashboard de Evaluación de Desempeño Docente – Looker Studio
 1. Objetivo del panel
 
-Este panel de analítica tiene como objetivo apoyar el seguimiento y control del proceso de Evaluación de Desempeño Docente, a partir de las respuestas de estudiantes de una Institución de Educación Superior.
+Este panel de analítica tiene como objetivo apoyar el seguimiento y control del proceso de Evaluación de Desempeño Docente, a partir de las respuestas de estudiantes a un instrumento diseñado para tal fin de una Institución de Educación Superior (IES).
 
 El dashboard busca responder principalmente las siguientes preguntas:
 ¿Cuál es el nivel de avance del proceso de evaluación (respuestas recibidas vs. esperadas)?
